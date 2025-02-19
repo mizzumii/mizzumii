@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me*** <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 
-<img align= "right" width= "220" src= "https://github.com/user-attachments/assets/715fadcd-8f38-409a-987d-887b4e8e19c3"/>
+<img align= "right" width= "200" src= "https://github.com/user-attachments/assets/715fadcd-8f38-409a-987d-887b4e8e19c3"/>
 
 <pre>
 💫 I'm a beginner at this, but no one is born knowing everything, right?
