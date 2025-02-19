@@ -1,3 +1,4 @@
+
 <h1 align="center"> Hi! I'm Ana/Mizzu <img height="20" <a href="https://emoji.gg/emoji/7745-moon"> <img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="60px" height="64px" alt="Moon"></a></h1>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!&hearts;)](https://git.io/typing-svg)
@@ -6,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me*** <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 
-<img align= "right" width= "260" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "220" src= "https://github.com/user-attachments/assets/715fadcd-8f38-409a-987d-887b4e8e19c3"/>
 
 <pre>
 💫 I'm a beginner at this, but no one is born knowing everything, right?
