@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp;***About me***  &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
 width="28"/> 
 
-<img align= "right" width= "200" src= "https://github.com/user-attachments/assets/715fadcd-8f38-409a-987d-887b4e8e19c3"/>
+<img align= "right" width= "200" src= "https://github.com/user-attachments/assets/c4cdb6b4-7d6d-49f5-886a-2e75540cd2c2"/>
 
 <pre>
 💫 I'm a beginner at this, but no one is born knowing everything, right?
