@@ -16,6 +16,7 @@ width="28"/>
 💻 I study Systems Engineering.
 ✨ I love learning new things. 🤓☝🏻
 🌸 My native language is Spanish, and I have some proficiency in English.
+🌱 I don't plan to stay just as a programmer, but it's a topic that really interests me.
 
 
 <a href=https://open.spotify.com/playlist/73KNyK0Rqmqv8J0wntXSAZ?si =3c962b2c521a4754&pt=3ccf61eaf253da2f6dac285f4631f6dd><img src = "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" </a><a href=https://steamcommunity.com/id/Mizzu_mii/=3c962b2c521a4754&pt=3ccf61eaf253da2f6dac285f4631f6dd><img src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" </a>
