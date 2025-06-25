@@ -12,7 +12,7 @@ width="28"/>
 
 <pre>
 💫 I'm a beginner at this, but no one is born knowing everything, right?
-💜 I'm 18 years old.
+💜 I'm 19 years old.
 💻 I study Systems Engineering.
 ✨ I love learning new things. 🤓☝🏻
 🌸 My native language is Spanish, and I have some proficiency in English.
